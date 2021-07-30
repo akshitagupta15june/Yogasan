@@ -52,4 +52,4 @@ Addition of some benefits of every yoga pose
 Reminders if not done yoga a single day.
 
 
-Download the APK of the app https://github.com/akshitagupta15june/Yogasan/blob/main/apk/app-debug.apk to test it.
+Download the APK of the app https://github.com/akshitagupta15june/Yogasan/blob/main/APK/app-debug.apk to test it.
