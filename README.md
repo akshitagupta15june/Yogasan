@@ -6,6 +6,8 @@ Due to the current coronavirus (COVID-19) outbreak, many people are avoiding gat
 
 With this initiative, I hope to encourage people to keep up their wellness routines as they choose to avoid physical workout spaces and stay healthy and safe in these uncertain times.
 
+<img src="https://github.com/akshitagupta15june/Yogasan/blob/main/Image_assets/Screenshot%20(128).png">
+
 ## What it does
 
 My project involved me getting familiar with the Android Development environment and thus develop an application to serve as a personal companion yoga partner to one. I basically focussed on the yoga poses and timer part, somehow, I utilized it to develop a yoga-trainer cum timer app. So, what my app does is fairly simple, you enter this app without any permissions requested, you want to be sure that you have spent some time involving yourself in asanas and after few minutes you will be rejuvenated. I have also implemented a countdown timer in my app in case one wants to be reminded at a certain time, pretty much like alarms during doing yoga. That the functionality part, now for the part, I focussed my efforts to build an intuitive, clean and simple UI. For the same, I encompassed card UI in my app. These beautiful cards, originally inspired by google now, makes the saved notes look aesthetically pleasing. Then there’s the drag and drop feature, a cool way to launch activities in the app by dropping those over a specified region called Launchpad. I also implemented swipe-able tabs so as to provide ease in navigating between different yoga poses.
